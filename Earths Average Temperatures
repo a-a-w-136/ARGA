@@ -1,0 +1,9 @@
+{
+
+  "name": "Average Temperature - Earth",
+
+  "description": "Earth's average temperature from 1975 to 2024.",
+
+  "dataPoints": [14.76, 14.78, 14.80, 14.82, 14.84, 14.86, 14.88, 14.90, 14.92, 14.94]
+
+}
