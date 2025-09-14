@@ -1,0 +1,10 @@
+{
+  "name": "CancerVsControl_5",
+  "description": "Simulated differential gene expression dataset comparing tumor tissue to healthy control. Includes log2 fold changes and p-values for 100 genes commonly studied in cancer biology.",
+  "data": [
+    { "gene": "TP53", "log2FoldChange": -2.4, "pValue": 0.00001 },
+    { "gene": "MYC", "log2FoldChange": 2.7, "pValue": 0.00005 },
+    { "gene": "BRCA1", "log2FoldChange": -1.9, "pValue": 0.0003 },
+    { "gene": "EGFR", "log2FoldChange": 1.8, "pValue": 0.002 },
+    { "gene": "CDKN2A", "log2FoldChange": -2.1, "pValue": 0.0002 }]
+}
