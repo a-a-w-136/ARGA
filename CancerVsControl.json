@@ -1,5 +1,5 @@
 {
-  "name": "CancerVsControl_VolcanoPlot",
+  "name": "CancerVsControl",
   "description": "Simulated differential gene expression dataset comparing tumor tissue to healthy control. Includes log2 fold changes and p-values for 100 genes commonly studied in cancer biology.",
   "data": [
     { "gene": "TP53", "log2FoldChange": -2.4, "pValue": 0.00001 },
