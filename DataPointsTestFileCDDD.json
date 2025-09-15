@@ -3,6 +3,5 @@
   "description": "Used to test the correctness of the plotted points",
   "data": [
     { "subject": "S001", "memoryScore": 100, "attentionScore": 100, "reasoningScore": 0 },
-  { "subject": "S002", "memoryScore": 100, "attentionScore": 100, "reasoningScore": 100 },
-  { "subject": "S002", "memoryScore": 0, "attentionScore": 0, "reasoningScore": 0 }]
+  { "subject": "S002", "memoryScore": 10, "attentionScore": 100, "reasoningScore": 100 }]
 }
