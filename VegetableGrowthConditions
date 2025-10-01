@@ -1,0 +1,6 @@
+{
+  "name": "Ideal conditions for vegetable growth",
+  "description": "This dataset contains optimal growing conditions for 50 vegetables, categorized by growth type. Useful for clustering, classification, and AR visualization.",
+  "data": [
+    { "category": "Fruiting Vegetables", "growingTemperatureMin": 21, "sunHoursMin": 10, "soilPhMin": 6.2, "waterPerWeekMin": 1.5 } ]
+}
